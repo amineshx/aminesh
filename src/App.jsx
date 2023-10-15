@@ -4,20 +4,13 @@ import { About, Contact, Experience, Feedbacks, Hero, Navbar, Tech, Works, Stars
 const App = () => {
     return (
         <BrowserRouter>
-            <div className="relative z-0 bg-primary">
+            <div className="relative z-0 bg-[#111010]">
                 <div className="bg-hero-pattern bg-cover bg-no-repeat bg-center">
                     <Navbar />
                     <Hero />
                 </div>
                 <About />
                 <Experience />
-                <Tech />
-                <Works />
-                <Feedbacks />
-                <div className="relative z-0" >
-                    <Contact />
-                    <StarsCanvas />
-                </div>
             </div>
         </BrowserRouter>
     )
