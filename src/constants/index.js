@@ -124,6 +124,15 @@ const experiences = [
         date: "11/01/2023 at 08:33 am",
         link:'https://tp1-progweb.000webhostapp.com/index.php',
         discription:"calculate a student's grade report"
+    },
+    {
+        title: "TP N° 2:",
+        company_name: "Starbucks",
+        icon: javascript,
+        iconBg: "#383E56",
+        date: "12/23/2023 at 05:50 pm",
+        link:'https://tp2-progweb.000webhostapp.com/',
+        discription:"User Authentication System"
     }
 ];
 
