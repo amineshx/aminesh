@@ -142,6 +142,15 @@ const experiences = [
         date: "12/26/2023 at 04:20 pm",
         link:'https://tp3prog.000webhostapp.com/',
         discription:"Order File Management"
+    },
+    {
+        title: "TP N° 4:",
+        company_name: "Starbucks",
+        icon: javascript,
+        iconBg: "#383E56",
+        date: "1/04/2024 at 05:14 pm",
+        link:'https://tp4prog.000webhostapp.com/',
+        discription:"University Course Registration Database Design"
     }
 ];
 
