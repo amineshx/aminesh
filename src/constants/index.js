@@ -117,13 +117,13 @@ const technologies = [
 
 const experiences = [
     {
-        title: "TP N° 1:",
+        title: "mini project:",
         company_name: "Starbucks",
         icon: javascript,
         iconBg: "#383E56",
-        date: "11/01/2023 at 08:33 am",
+        date: "01/20/2023 at 10:50 pm",
         link:'https://tp1-progweb.000webhostapp.com/index.php',
-        discription:"calculate a student's grade report"
+        discription:"The dematerialization of subscription files for SETRAM customers"
     },
     {
         title: "TP N° 2:",
